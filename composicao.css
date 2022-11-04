@@ -32,6 +32,11 @@
     background-color: green;
 
 }
+section.bloco2 img {
+    margin: 10px;
+    float: left;
+
+}
 .bloco3 {
     background-color: red;
 }
